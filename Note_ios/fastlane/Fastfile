@@ -1,0 +1,54 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all available actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+# For a list of all available plugins, check out
+#
+#     https://docs.fastlane.tools/plugins/available-plugins
+#
+
+# Uncomment the line if you want fastlane to automatically update itself
+# update_fastlane
+
+default_platform(:ios)
+
+platform :ios do
+
+	prod_bundle_id = "wedding.alexkristi.note"
+	stag_bundle_id = "wedding.alexkristi.note.stag"
+	dev_bundle_id = "wedding.alexkristi.note.dev"
+	bundle_ids = [prod_bundle_id, stag_bundle_id, dev_bundle_id]
+
+	desc 'Create certificates and provisioning profiles'
+	lane :renew do
+		match(app_identifier: bundle_ids ,type: 'development')
+		match(app_identifier: bundle_ids ,type: 'adhoc')
+		match(app_identifier: bundle_ids, type: 'appstore')
+	end
+
+	desc 'Fetch all certificates and provisioning profiles'
+	lane :fetchall do
+		fetchdev
+		fetchadhoc
+		fetchappstore
+	end
+
+	desc 'Fetch development certificate and provisioning profile'
+	lane :fetchdev do
+		match(app_identifier: bundle_ids ,type: 'development', readonly: true)
+	end
+
+	desc 'Fetch adhoc certificate and provisioning profile'
+	lane :fetchadhoc do
+		match(app_identifier: bundle_ids ,type: 'adhoc', readonly: true)
+	end
+
+	desc 'Fetch appstore certificate and provisioning profile'
+	lane :fetchappstore do
+		match(app_identifier: bundle_ids, type: 'appstore', readonly: true)
+	end
+
+end
