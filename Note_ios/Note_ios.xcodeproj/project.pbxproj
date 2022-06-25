@@ -318,8 +318,10 @@
 			baseConfigurationReference = 7A23E7AB0D873BF90C2292E8 /* Pods-Note_ios.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_ASSET_PATHS = "\"Note_ios/Preview Content\"";
+				DEVELOPMENT_TEAM = GJ27AHS98B;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Note_ios/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
@@ -329,6 +331,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = wedding.alexkristi.note;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "match Development wedding.alexkristi.note";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -339,8 +342,10 @@
 			baseConfigurationReference = 029342DDB62DD8788DD05096 /* Pods-Note_ios.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_ASSET_PATHS = "\"Note_ios/Preview Content\"";
+				DEVELOPMENT_TEAM = GJ27AHS98B;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Note_ios/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
@@ -350,6 +355,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = wedding.alexkristi.note;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "match AppStore wedding.alexkristi.note";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
