@@ -1,0 +1,5 @@
+target 'Note_ios' do
+  use_frameworks!
+  platform :ios, '14.1'
+  pod 'Note_shared', :path => '../Note_shared'
+end

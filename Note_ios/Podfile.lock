@@ -1,0 +1,16 @@
+PODS:
+  - Note_shared (1.0)
+
+DEPENDENCIES:
+  - Note_shared (from `../Note_shared`)
+
+EXTERNAL SOURCES:
+  Note_shared:
+    :path: "../Note_shared"
+
+SPEC CHECKSUMS:
+  Note_shared: aa0db378af96a635a61524d8aacc8dda95480cac
+
+PODFILE CHECKSUM: 107cf752642f51234a97e22b81a35860e3db5bfb
+
+COCOAPODS: 1.10.0
