@@ -19,6 +19,7 @@
 		058557BA273AAA24004C7B11 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		058557D8273AAEEB004C7B11 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		17675480CE63BC9F6A3C6575 /* Pods-Note_ios.prod_debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.prod_debug.xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.prod_debug.xcconfig"; sourceTree = "<group>"; };
+		2989CA7B34CEA9570234C4EA /* Pods-Note_ios.int_debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.int_debug.xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.int_debug.xcconfig"; sourceTree = "<group>"; };
 		2A8A2443C476087A6DE69C82 /* Pods-Note_ios.dev (release).xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.dev (release).xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.dev (release).xcconfig"; sourceTree = "<group>"; };
 		3324C8C1C70B227457CA70A4 /* Pods-Note_ios.prod (release).xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.prod (release).xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.prod (release).xcconfig"; sourceTree = "<group>"; };
 		353E51BDB1D6C72AEABA2503 /* Pods_Note_ios.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Note_ios.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -26,18 +27,19 @@
 		60CEFEA5860BD6916959F8E4 /* Pods-Note_ios.prod_release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.prod_release.xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.prod_release.xcconfig"; sourceTree = "<group>"; };
 		6A02C5E86B945D7BE85A660E /* Pods-Note_ios.stag_release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.stag_release.xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.stag_release.xcconfig"; sourceTree = "<group>"; };
 		73803DC1FCAE5636511A6218 /* Pods-Note_ios.stag (release).xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.stag (release).xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.stag (release).xcconfig"; sourceTree = "<group>"; };
-		7555FF7B242A565900829871 /* Note.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Note.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7555FF7B242A565900829871 /* Note Dev.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Note Dev.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7555FF8C242A565B00829871 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7A23E7AB0D873BF90C2292E8 /* Pods-Note_ios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.debug.xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.debug.xcconfig"; sourceTree = "<group>"; };
 		8E94FFABA89871E0096AFBFC /* Pods-Note_ios.dev_debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.dev_debug.xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.dev_debug.xcconfig"; sourceTree = "<group>"; };
 		ACF22A673D8F27E6B02C5EA0 /* Pods-Note_ios.prod (debug).xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.prod (debug).xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.prod (debug).xcconfig"; sourceTree = "<group>"; };
+		C32A30C4DCB44A1A3209DFA7 /* Pods-Note_ios.int_release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.int_release.xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.int_release.xcconfig"; sourceTree = "<group>"; };
 		D4E06F0FC5933D5A020D50D3 /* Pods-Note_ios.dev_release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.dev_release.xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.dev_release.xcconfig"; sourceTree = "<group>"; };
 		D6C670D6F1A5E87C2A3AE5DE /* Pods-Note_ios.stag_debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.stag_debug.xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.stag_debug.xcconfig"; sourceTree = "<group>"; };
 		F2BAACB9534CC45CFF98A7B3 /* Pods-Note_ios.dev (debug).xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.dev (debug).xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.dev (debug).xcconfig"; sourceTree = "<group>"; };
 		FA55913F2867D48600FFBCCC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FA5591612867D71000FFBCCC /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		FA5591632867DC0600FFBCCC /* Config-Dev.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Config-Dev.xcconfig"; sourceTree = "<group>"; };
-		FA5591642867DC7000FFBCCC /* Config-Stag.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Config-Stag.xcconfig"; sourceTree = "<group>"; };
+		FA5591642867DC7000FFBCCC /* Config-Int.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Config-Int.xcconfig"; sourceTree = "<group>"; };
 		FA5591652867DC9400FFBCCC /* Config-Prod.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Config-Prod.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -74,7 +76,7 @@
 		7555FF7C242A565900829871 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7555FF7B242A565900829871 /* Note.app */,
+				7555FF7B242A565900829871 /* Note Dev.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -87,7 +89,7 @@
 				058557BA273AAA24004C7B11 /* Assets.xcassets */,
 				7555FF8C242A565B00829871 /* Info.plist */,
 				FA5591632867DC0600FFBCCC /* Config-Dev.xcconfig */,
-				FA5591642867DC7000FFBCCC /* Config-Stag.xcconfig */,
+				FA5591642867DC7000FFBCCC /* Config-Int.xcconfig */,
 				FA5591652867DC9400FFBCCC /* Config-Prod.xcconfig */,
 				058557D7273AAEEB004C7B11 /* Preview Content */,
 			);
@@ -111,6 +113,8 @@
 				60CEFEA5860BD6916959F8E4 /* Pods-Note_ios.prod_release.xcconfig */,
 				D4E06F0FC5933D5A020D50D3 /* Pods-Note_ios.dev_release.xcconfig */,
 				6A02C5E86B945D7BE85A660E /* Pods-Note_ios.stag_release.xcconfig */,
+				2989CA7B34CEA9570234C4EA /* Pods-Note_ios.int_debug.xcconfig */,
+				C32A30C4DCB44A1A3209DFA7 /* Pods-Note_ios.int_release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -141,7 +145,7 @@
 			);
 			name = Note_ios;
 			productName = Note_ios;
-			productReference = 7555FF7B242A565900829871 /* Note.app */;
+			productReference = 7555FF7B242A565900829871 /* Note Dev.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -395,9 +399,9 @@
 			};
 			name = Prod_Release;
 		};
-		FA5591662867DD3700FFBCCC /* Stag_Debug */ = {
+		FA5591662867DD3700FFBCCC /* Int_Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FA5591642867DC7000FFBCCC /* Config-Stag.xcconfig */;
+			baseConfigurationReference = FA5591642867DC7000FFBCCC /* Config-Int.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
@@ -455,11 +459,11 @@
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
-			name = Stag_Debug;
+			name = Int_Debug;
 		};
-		FA5591672867DD3700FFBCCC /* Stag_Debug */ = {
+		FA5591672867DD3700FFBCCC /* Int_Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D6C670D6F1A5E87C2A3AE5DE /* Pods-Note_ios.stag_debug.xcconfig */;
+			baseConfigurationReference = 2989CA7B34CEA9570234C4EA /* Pods-Note_ios.int_debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -476,15 +480,15 @@
 				OTHER_SWIFT_FLAGS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = "$(inherited)";
 				PRODUCT_NAME = "$(inherited)";
-				PROVISIONING_PROFILE_SPECIFIER = "match Development wedding.alexkristi.note";
+				PROVISIONING_PROFILE_SPECIFIER = "match Development wedding.alexkristi.note.int";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
-			name = Stag_Debug;
+			name = Int_Debug;
 		};
-		FA5591682867DD4100FFBCCC /* Stag_Release */ = {
+		FA5591682867DD4100FFBCCC /* Int_Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FA5591642867DC7000FFBCCC /* Config-Stag.xcconfig */;
+			baseConfigurationReference = FA5591642867DC7000FFBCCC /* Config-Int.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
@@ -536,11 +540,11 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				VALIDATE_PRODUCT = YES;
 			};
-			name = Stag_Release;
+			name = Int_Release;
 		};
-		FA5591692867DD4100FFBCCC /* Stag_Release */ = {
+		FA5591692867DD4100FFBCCC /* Int_Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6A02C5E86B945D7BE85A660E /* Pods-Note_ios.stag_release.xcconfig */;
+			baseConfigurationReference = C32A30C4DCB44A1A3209DFA7 /* Pods-Note_ios.int_release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
@@ -557,11 +561,11 @@
 				OTHER_SWIFT_FLAGS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = "$(inherited)";
 				PRODUCT_NAME = "$(inherited)";
-				PROVISIONING_PROFILE_SPECIFIER = "match AppStore wedding.alexkristi.note";
+				PROVISIONING_PROFILE_SPECIFIER = "match AppStore wedding.alexkristi.note.int";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
-			name = Stag_Release;
+			name = Int_Release;
 		};
 		FA55916A2867DD4A00FFBCCC /* Dev_Debug */ = {
 			isa = XCBuildConfiguration;
@@ -644,7 +648,7 @@
 				OTHER_SWIFT_FLAGS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = "$(inherited)";
 				PRODUCT_NAME = "$(inherited)";
-				PROVISIONING_PROFILE_SPECIFIER = "match Development wedding.alexkristi.note";
+				PROVISIONING_PROFILE_SPECIFIER = "match Development wedding.alexkristi.note.dev";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -725,7 +729,7 @@
 				OTHER_SWIFT_FLAGS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = "$(inherited)";
 				PRODUCT_NAME = "$(inherited)";
-				PROVISIONING_PROFILE_SPECIFIER = "match AppStore wedding.alexkristi.note";
+				PROVISIONING_PROFILE_SPECIFIER = "match AppStore wedding.alexkristi.note.dev";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -739,8 +743,8 @@
 			buildConfigurations = (
 				FA55916A2867DD4A00FFBCCC /* Dev_Debug */,
 				FA55916C2867DD6200FFBCCC /* Dev_Release */,
-				FA5591662867DD3700FFBCCC /* Stag_Debug */,
-				FA5591682867DD4100FFBCCC /* Stag_Release */,
+				FA5591662867DD3700FFBCCC /* Int_Debug */,
+				FA5591682867DD4100FFBCCC /* Int_Release */,
 				7555FFA3242A565B00829871 /* Prod_Debug */,
 				7555FFA4242A565B00829871 /* Prod_Release */,
 			);
@@ -752,8 +756,8 @@
 			buildConfigurations = (
 				FA55916B2867DD4A00FFBCCC /* Dev_Debug */,
 				FA55916D2867DD6200FFBCCC /* Dev_Release */,
-				FA5591672867DD3700FFBCCC /* Stag_Debug */,
-				FA5591692867DD4100FFBCCC /* Stag_Release */,
+				FA5591672867DD3700FFBCCC /* Int_Debug */,
+				FA5591692867DD4100FFBCCC /* Int_Release */,
 				7555FFA6242A565B00829871 /* Prod_Debug */,
 				7555FFA7242A565B00829871 /* Prod_Release */,
 			);

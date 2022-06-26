@@ -12,8 +12,8 @@ class MainViewController: UIViewController {
         let env: String = {
             #if DEV
             return "Dev"
-            #elseif STAG
-            return "Stag"
+            #elseif INT
+            return "Int"
             #elseif PROD
             return "Prod"
             #endif

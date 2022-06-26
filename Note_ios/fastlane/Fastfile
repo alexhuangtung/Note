@@ -18,9 +18,9 @@ default_platform(:ios)
 platform :ios do
 
 	prod_bundle_id = "wedding.alexkristi.note"
-	stag_bundle_id = "wedding.alexkristi.note.stag"
+	int_bundle_id = "wedding.alexkristi.note.int"
 	dev_bundle_id = "wedding.alexkristi.note.dev"
-	bundle_ids = [prod_bundle_id, stag_bundle_id, dev_bundle_id]
+	bundle_ids = [prod_bundle_id, int_bundle_id, dev_bundle_id]
 
 	desc 'Create certificates and provisioning profiles'
 	lane :renew do

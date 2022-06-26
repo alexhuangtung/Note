@@ -20,12 +20,12 @@ kotlin {
         framework {
             baseName = "Note_shared"
         }
-        xcodeConfigurationToNativeBuildType["Prod_Debug"] = org.jetbrains.kotlin.gradle.plugin.mpp.NativeBuildType.DEBUG
-        xcodeConfigurationToNativeBuildType["Stag_Debug"] = org.jetbrains.kotlin.gradle.plugin.mpp.NativeBuildType.DEBUG
         xcodeConfigurationToNativeBuildType["Dev_Debug"] = org.jetbrains.kotlin.gradle.plugin.mpp.NativeBuildType.DEBUG
-        xcodeConfigurationToNativeBuildType["Prod_Release"] = org.jetbrains.kotlin.gradle.plugin.mpp.NativeBuildType.RELEASE
-        xcodeConfigurationToNativeBuildType["Stag_Release"] = org.jetbrains.kotlin.gradle.plugin.mpp.NativeBuildType.RELEASE
         xcodeConfigurationToNativeBuildType["Dev_Release"] = org.jetbrains.kotlin.gradle.plugin.mpp.NativeBuildType.RELEASE
+        xcodeConfigurationToNativeBuildType["Int_Debug"] = org.jetbrains.kotlin.gradle.plugin.mpp.NativeBuildType.DEBUG
+        xcodeConfigurationToNativeBuildType["Int_Release"] = org.jetbrains.kotlin.gradle.plugin.mpp.NativeBuildType.RELEASE
+        xcodeConfigurationToNativeBuildType["Prod_Debug"] = org.jetbrains.kotlin.gradle.plugin.mpp.NativeBuildType.DEBUG
+        xcodeConfigurationToNativeBuildType["Prod_Release"] = org.jetbrains.kotlin.gradle.plugin.mpp.NativeBuildType.RELEASE
     }
     
     sourceSets {
