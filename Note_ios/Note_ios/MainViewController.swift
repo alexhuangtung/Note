@@ -9,7 +9,16 @@ class MainViewController: UIViewController {
         let lb = UILabel()
         lb.font = UIFont.systemFont(ofSize: 16, weight: .regular)
         lb.textColor = .black
-        lb.text = greeting.greeting()
+        let env: String = {
+            #if DEV
+            return "Dev"
+            #elseif STAG
+            return "Stag"
+            #elseif PROD
+            return "Prod"
+            #endif
+        }()
+        lb.text = greeting.greeting() + " (\(env))"
         return lb
     }()
     

@@ -1,0 +1,3 @@
+OTHER_SWIFT_FLAGS = -D DEV
+PRODUCT_NAME = Note Dev
+PRODUCT_BUNDLE_IDENTIFIER = wedding.alexkristi.note.dev

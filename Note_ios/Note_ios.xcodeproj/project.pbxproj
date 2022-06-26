@@ -18,12 +18,27 @@
 		029342DDB62DD8788DD05096 /* Pods-Note_ios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.release.xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.release.xcconfig"; sourceTree = "<group>"; };
 		058557BA273AAA24004C7B11 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		058557D8273AAEEB004C7B11 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		17675480CE63BC9F6A3C6575 /* Pods-Note_ios.prod_debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.prod_debug.xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.prod_debug.xcconfig"; sourceTree = "<group>"; };
+		2A8A2443C476087A6DE69C82 /* Pods-Note_ios.dev (release).xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.dev (release).xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.dev (release).xcconfig"; sourceTree = "<group>"; };
+		3324C8C1C70B227457CA70A4 /* Pods-Note_ios.prod (release).xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.prod (release).xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.prod (release).xcconfig"; sourceTree = "<group>"; };
 		353E51BDB1D6C72AEABA2503 /* Pods_Note_ios.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Note_ios.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		7555FF7B242A565900829871 /* Note_ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Note_ios.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E2E08547DD189024BA3967D /* Pods-Note_ios.stag (debug).xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.stag (debug).xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.stag (debug).xcconfig"; sourceTree = "<group>"; };
+		60CEFEA5860BD6916959F8E4 /* Pods-Note_ios.prod_release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.prod_release.xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.prod_release.xcconfig"; sourceTree = "<group>"; };
+		6A02C5E86B945D7BE85A660E /* Pods-Note_ios.stag_release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.stag_release.xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.stag_release.xcconfig"; sourceTree = "<group>"; };
+		73803DC1FCAE5636511A6218 /* Pods-Note_ios.stag (release).xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.stag (release).xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.stag (release).xcconfig"; sourceTree = "<group>"; };
+		7555FF7B242A565900829871 /* Note.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Note.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7555FF8C242A565B00829871 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7A23E7AB0D873BF90C2292E8 /* Pods-Note_ios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.debug.xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.debug.xcconfig"; sourceTree = "<group>"; };
+		8E94FFABA89871E0096AFBFC /* Pods-Note_ios.dev_debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.dev_debug.xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.dev_debug.xcconfig"; sourceTree = "<group>"; };
+		ACF22A673D8F27E6B02C5EA0 /* Pods-Note_ios.prod (debug).xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.prod (debug).xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.prod (debug).xcconfig"; sourceTree = "<group>"; };
+		D4E06F0FC5933D5A020D50D3 /* Pods-Note_ios.dev_release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.dev_release.xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.dev_release.xcconfig"; sourceTree = "<group>"; };
+		D6C670D6F1A5E87C2A3AE5DE /* Pods-Note_ios.stag_debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.stag_debug.xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.stag_debug.xcconfig"; sourceTree = "<group>"; };
+		F2BAACB9534CC45CFF98A7B3 /* Pods-Note_ios.dev (debug).xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Note_ios.dev (debug).xcconfig"; path = "Target Support Files/Pods-Note_ios/Pods-Note_ios.dev (debug).xcconfig"; sourceTree = "<group>"; };
 		FA55913F2867D48600FFBCCC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FA5591612867D71000FFBCCC /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		FA5591632867DC0600FFBCCC /* Config-Dev.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Config-Dev.xcconfig"; sourceTree = "<group>"; };
+		FA5591642867DC7000FFBCCC /* Config-Stag.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Config-Stag.xcconfig"; sourceTree = "<group>"; };
+		FA5591652867DC9400FFBCCC /* Config-Prod.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Config-Prod.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +74,7 @@
 		7555FF7C242A565900829871 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7555FF7B242A565900829871 /* Note_ios.app */,
+				7555FF7B242A565900829871 /* Note.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -71,6 +86,9 @@
 				FA5591612867D71000FFBCCC /* MainViewController.swift */,
 				058557BA273AAA24004C7B11 /* Assets.xcassets */,
 				7555FF8C242A565B00829871 /* Info.plist */,
+				FA5591632867DC0600FFBCCC /* Config-Dev.xcconfig */,
+				FA5591642867DC7000FFBCCC /* Config-Stag.xcconfig */,
+				FA5591652867DC9400FFBCCC /* Config-Prod.xcconfig */,
 				058557D7273AAEEB004C7B11 /* Preview Content */,
 			);
 			path = Note_ios;
@@ -81,6 +99,18 @@
 			children = (
 				7A23E7AB0D873BF90C2292E8 /* Pods-Note_ios.debug.xcconfig */,
 				029342DDB62DD8788DD05096 /* Pods-Note_ios.release.xcconfig */,
+				ACF22A673D8F27E6B02C5EA0 /* Pods-Note_ios.prod (debug).xcconfig */,
+				F2BAACB9534CC45CFF98A7B3 /* Pods-Note_ios.dev (debug).xcconfig */,
+				5E2E08547DD189024BA3967D /* Pods-Note_ios.stag (debug).xcconfig */,
+				3324C8C1C70B227457CA70A4 /* Pods-Note_ios.prod (release).xcconfig */,
+				2A8A2443C476087A6DE69C82 /* Pods-Note_ios.dev (release).xcconfig */,
+				73803DC1FCAE5636511A6218 /* Pods-Note_ios.stag (release).xcconfig */,
+				17675480CE63BC9F6A3C6575 /* Pods-Note_ios.prod_debug.xcconfig */,
+				8E94FFABA89871E0096AFBFC /* Pods-Note_ios.dev_debug.xcconfig */,
+				D6C670D6F1A5E87C2A3AE5DE /* Pods-Note_ios.stag_debug.xcconfig */,
+				60CEFEA5860BD6916959F8E4 /* Pods-Note_ios.prod_release.xcconfig */,
+				D4E06F0FC5933D5A020D50D3 /* Pods-Note_ios.dev_release.xcconfig */,
+				6A02C5E86B945D7BE85A660E /* Pods-Note_ios.stag_release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -111,7 +141,7 @@
 			);
 			name = Note_ios;
 			productName = Note_ios;
-			productReference = 7555FF7B242A565900829871 /* Note_ios.app */;
+			productReference = 7555FF7B242A565900829871 /* Note.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -197,8 +227,9 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		7555FFA3242A565B00829871 /* Debug */ = {
+		7555FFA3242A565B00829871 /* Prod_Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA5591652867DC9400FFBCCC /* Config-Prod.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
@@ -256,10 +287,11 @@
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
-			name = Debug;
+			name = Prod_Debug;
 		};
-		7555FFA4242A565B00829871 /* Release */ = {
+		7555FFA4242A565B00829871 /* Prod_Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA5591652867DC9400FFBCCC /* Config-Prod.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
@@ -311,11 +343,11 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				VALIDATE_PRODUCT = YES;
 			};
-			name = Release;
+			name = Prod_Release;
 		};
-		7555FFA6242A565B00829871 /* Debug */ = {
+		7555FFA6242A565B00829871 /* Prod_Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7A23E7AB0D873BF90C2292E8 /* Pods-Note_ios.debug.xcconfig */;
+			baseConfigurationReference = 17675480CE63BC9F6A3C6575 /* Pods-Note_ios.prod_debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -329,17 +361,18 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = wedding.alexkristi.note;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				OTHER_SWIFT_FLAGS = "$(inherited)";
+				PRODUCT_BUNDLE_IDENTIFIER = "$(inherited)";
+				PRODUCT_NAME = "$(inherited)";
 				PROVISIONING_PROFILE_SPECIFIER = "match Development wedding.alexkristi.note";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
-			name = Debug;
+			name = Prod_Debug;
 		};
-		7555FFA7242A565B00829871 /* Release */ = {
+		7555FFA7242A565B00829871 /* Prod_Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 029342DDB62DD8788DD05096 /* Pods-Note_ios.release.xcconfig */;
+			baseConfigurationReference = 60CEFEA5860BD6916959F8E4 /* Pods-Note_ios.prod_release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
@@ -353,13 +386,350 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = wedding.alexkristi.note;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				OTHER_SWIFT_FLAGS = "$(inherited)";
+				PRODUCT_BUNDLE_IDENTIFIER = "$(inherited)";
+				PRODUCT_NAME = "$(inherited)";
 				PROVISIONING_PROFILE_SPECIFIER = "match AppStore wedding.alexkristi.note";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
-			name = Release;
+			name = Prod_Release;
+		};
+		FA5591662867DD3700FFBCCC /* Stag_Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA5591642867DC7000FFBCCC /* Config-Stag.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Stag_Debug;
+		};
+		FA5591672867DD3700FFBCCC /* Stag_Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D6C670D6F1A5E87C2A3AE5DE /* Pods-Note_ios.stag_debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_ASSET_PATHS = "\"Note_ios/Preview Content\"";
+				DEVELOPMENT_TEAM = GJ27AHS98B;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = Note_ios/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited)";
+				PRODUCT_BUNDLE_IDENTIFIER = "$(inherited)";
+				PRODUCT_NAME = "$(inherited)";
+				PROVISIONING_PROFILE_SPECIFIER = "match Development wedding.alexkristi.note";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Stag_Debug;
+		};
+		FA5591682867DD4100FFBCCC /* Stag_Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA5591642867DC7000FFBCCC /* Config-Stag.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Stag_Release;
+		};
+		FA5591692867DD4100FFBCCC /* Stag_Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6A02C5E86B945D7BE85A660E /* Pods-Note_ios.stag_release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_ASSET_PATHS = "\"Note_ios/Preview Content\"";
+				DEVELOPMENT_TEAM = GJ27AHS98B;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = Note_ios/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited)";
+				PRODUCT_BUNDLE_IDENTIFIER = "$(inherited)";
+				PRODUCT_NAME = "$(inherited)";
+				PROVISIONING_PROFILE_SPECIFIER = "match AppStore wedding.alexkristi.note";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Stag_Release;
+		};
+		FA55916A2867DD4A00FFBCCC /* Dev_Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA5591632867DC0600FFBCCC /* Config-Dev.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Dev_Debug;
+		};
+		FA55916B2867DD4A00FFBCCC /* Dev_Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8E94FFABA89871E0096AFBFC /* Pods-Note_ios.dev_debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_ASSET_PATHS = "\"Note_ios/Preview Content\"";
+				DEVELOPMENT_TEAM = GJ27AHS98B;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = Note_ios/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited)";
+				PRODUCT_BUNDLE_IDENTIFIER = "$(inherited)";
+				PRODUCT_NAME = "$(inherited)";
+				PROVISIONING_PROFILE_SPECIFIER = "match Development wedding.alexkristi.note";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Dev_Debug;
+		};
+		FA55916C2867DD6200FFBCCC /* Dev_Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA5591632867DC0600FFBCCC /* Config-Dev.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Dev_Release;
+		};
+		FA55916D2867DD6200FFBCCC /* Dev_Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D4E06F0FC5933D5A020D50D3 /* Pods-Note_ios.dev_release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_ASSET_PATHS = "\"Note_ios/Preview Content\"";
+				DEVELOPMENT_TEAM = GJ27AHS98B;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = Note_ios/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited)";
+				PRODUCT_BUNDLE_IDENTIFIER = "$(inherited)";
+				PRODUCT_NAME = "$(inherited)";
+				PROVISIONING_PROFILE_SPECIFIER = "match AppStore wedding.alexkristi.note";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Dev_Release;
 		};
 /* End XCBuildConfiguration section */
 
@@ -367,20 +737,28 @@
 		7555FF76242A565900829871 /* Build configuration list for PBXProject "Note_ios" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7555FFA3242A565B00829871 /* Debug */,
-				7555FFA4242A565B00829871 /* Release */,
+				FA55916A2867DD4A00FFBCCC /* Dev_Debug */,
+				FA55916C2867DD6200FFBCCC /* Dev_Release */,
+				FA5591662867DD3700FFBCCC /* Stag_Debug */,
+				FA5591682867DD4100FFBCCC /* Stag_Release */,
+				7555FFA3242A565B00829871 /* Prod_Debug */,
+				7555FFA4242A565B00829871 /* Prod_Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Prod_Release;
 		};
 		7555FFA5242A565B00829871 /* Build configuration list for PBXNativeTarget "Note_ios" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7555FFA6242A565B00829871 /* Debug */,
-				7555FFA7242A565B00829871 /* Release */,
+				FA55916B2867DD4A00FFBCCC /* Dev_Debug */,
+				FA55916D2867DD6200FFBCCC /* Dev_Release */,
+				FA5591672867DD3700FFBCCC /* Stag_Debug */,
+				FA5591692867DD4100FFBCCC /* Stag_Release */,
+				7555FFA6242A565B00829871 /* Prod_Debug */,
+				7555FFA7242A565B00829871 /* Prod_Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Prod_Release;
 		};
 /* End XCConfigurationList section */
 	};
