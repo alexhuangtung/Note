@@ -17,6 +17,20 @@ android {
             isMinifyEnabled = false
         }
     }
+    flavorDimensions += listOf("env")
+    productFlavors {
+        create("dev") {
+            dimension = "env"
+            applicationIdSuffix = ".dev"
+        }
+        create("int") {
+            dimension = "env"
+            applicationIdSuffix = ".int"
+        }
+        create("prod") {
+            dimension = "env"
+        }
+    }
 }
 
 dependencies {
